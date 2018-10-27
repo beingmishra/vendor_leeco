@@ -662,7 +662,9 @@ PRODUCT_PACKAGES += \
     WfdService \
     dpmserviceapp \
     ims \
+    LetvRemoteControl_preinstall \
     qcrilmsgtunnel \
     PowerOffAlarm \
     TimeService \
+    UEIQuicksetSDKLeTV \
     WfdCommon

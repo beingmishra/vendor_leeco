@@ -18,3 +18,6 @@
 ifeq ($(WITH_TWRP),true)
 TARGET_RECOVERY_DEVICE_DIRS += vendor/leeco/msm8996-common/proprietary
 endif
+
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/leeco/msm8996-common
